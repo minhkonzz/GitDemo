@@ -1,7 +1,2 @@
-var tringu= '123456789' 
-var tringu1= '123456789' 
-var tringu2= '123456789' 
-var tringu3= '123456789' 
-var tringu4= '123456789' 
-
-var a = 10
+const marray = [1,2,3,4,5];
+console.log(marray.map(item => item + 1));
