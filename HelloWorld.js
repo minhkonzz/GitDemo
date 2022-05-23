@@ -1,1 +1,1 @@
-var tringu= ''
+var tringu= '123456789' 
